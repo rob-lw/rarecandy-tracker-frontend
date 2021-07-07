@@ -31,3 +31,10 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Screenshots
+1.Sales Volume & Highest Bid to date
+![Sales volume   bid](https://user-images.githubusercontent.com/80292168/124825521-ab197880-df6b-11eb-8c2d-5f9f996b931a.png)
+2.Total Assets Minted to date
+![Total Assets Minted](https://user-images.githubusercontent.com/80292168/124825532-aeacff80-df6b-11eb-9cf6-0ad16eda71f4.png)
+3.Total Assets Sold and ID of Asset Sold to date
+![Total Assets Sold and IDs](https://user-images.githubusercontent.com/80292168/124825543-b1a7f000-df6b-11eb-8683-a609188cb0f2.png)
+
