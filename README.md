@@ -35,8 +35,7 @@ You will also see any lint errors in the console.
 ![Sales volume   bid](https://user-images.githubusercontent.com/80292168/124825521-ab197880-df6b-11eb-8c2d-5f9f996b931a.png)
 
 2.Total Assets Minted to date
-![Total Assets Minted](https://user-images.githubusercontent.com/80292168/124825532-aeacff80-df6b-11eb-9cf6-0ad16eda71f4.png)
+![Screenshot from 2021-07-07 21-42-21](https://user-images.githubusercontent.com/80292168/124826067-5296ab00-df6c-11eb-993a-816256e16652.png)
 
 3.Total Assets Sold and ID of Asset Sold to date
-![Total Assets Sold and IDs](https://user-images.githubusercontent.com/80292168/124825543-b1a7f000-df6b-11eb-8683-a609188cb0f2.png)
-
+![Screenshot from 2021-07-07 21-42-41](https://user-images.githubusercontent.com/80292168/124826079-56c2c880-df6c-11eb-97c7-2900568903b4.png)
