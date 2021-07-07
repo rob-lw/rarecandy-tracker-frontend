@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is the front0end for the subgraph https://thegraph.com/explorer/subgraph/rob-lw/racecandy-tracker deployed to the hosted service [The Graph](https://thegraph.com/)
+This project is the front-end for the subgraph https://thegraph.com/explorer/subgraph/rob-lw/racecandy-tracker deployed to the hosted service [The Graph](https://thegraph.com/)
 
 The back-end source code for the subgraph Rarecandy dApp https://github.com/rob-lw/rarecandy-tracker
 
