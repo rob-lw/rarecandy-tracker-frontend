@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/80292168/124829462-91c6fb00-df70-11eb-85c9-c5e8e51c2242.mp4
+
 # Getting Started with Rarecandy-Tracker-Frontend
 
 This project is the front-end web interface for the subgraph https://thegraph.com/explorer/subgraph/rob-lw/racecandy-tracker deployed to the hosted service [The Graph](https://thegraph.com/)
